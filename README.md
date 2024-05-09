@@ -2,7 +2,7 @@
 
 - Bacharelando em Engenharia da computação, previsão de término em 12/2026.
 
-- Atualmente estudo linguagem Python, C++, PowerBI, e Alemão 🇩🇪
+- Atualmente estudo linguagem Python, C++, PowerBI, e Alemão:de:
 
 - Me encontre aqui
 
